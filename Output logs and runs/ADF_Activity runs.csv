@@ -1,0 +1,5 @@
+"Activity name","Activity status","Error","Activity type","Run start","Duration","Integration runtime","User properties","Activity run ID","Log"
+"EDA_Notebook","Succeeded","","DatabricksNotebook","12/13/2024, 10:29:31 PM","51s","AutoResolveIntegrationRuntime (East US)","{}","fe0d8567-57d3-4cdd-aabe-9ec580b9672d",""
+"purging_activity","Succeeded","","Delete","12/13/2024, 10:29:31 PM","6s","AutoResolveIntegrationRuntime (Central India)","{}","e640dd71-fa7f-416b-baa9-315a3eb7c63e",""
+"Archived_and_purged_Notebook","Succeeded","","DatabricksNotebook","12/13/2024, 10:28:20 PM","1m 9s","AutoResolveIntegrationRuntime (East US)","{}","780d60f9-df69-46fb-894e-a0666a70da22",""
+"ETL_Notebook","Succeeded","","DatabricksNotebook","12/13/2024, 10:27:40 PM","39s","AutoResolveIntegrationRuntime (East US)","{}","f587db3e-9c49-4a7a-85c9-12b7ae2ca052",""
